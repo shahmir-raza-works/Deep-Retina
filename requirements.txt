@@ -1,4 +1,4 @@
-tensorflow==2.18.0
+tensorflow>=2.16,<2.19
 opencv-python-headless>=4.9.0
 numpy>=1.26.4,<2.1
 pandas>=2.1.4
