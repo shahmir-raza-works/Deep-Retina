@@ -118,7 +118,7 @@ See the notebook's Evaluation section for the full confusion matrix and per-clas
 
 ## Author
 
-_Your Name_ — NAVTTC Hunarmand Pakistan Program, AI (ML/DL) Course
+_Muhammad Shahmir Raza_
 
 ## License
 
