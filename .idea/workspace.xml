@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a177ac8-ca2d-41d9-923d-d8620508df69" name="Changes" comment="" />
+    <list default="true" id="1a177ac8-ca2d-41d9-923d-d8620508df69" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Projects_Py/tic_tac_toe/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects_Py/tic_tac_toe/tic_tac_toe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Diabetic Retinopathy Detection.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Diabetic Retinopathy Detection.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blindness-detection-muhammad-shahmir-raza (3).ipynb" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7,
@@ -23,6 +30,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master"
